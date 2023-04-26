@@ -21,6 +21,10 @@
     text-align: center;
 }
 
+.item_list {
+    list-style: none;
+}
+
 @media (max-width: 768px) {
     .table thead{
         display: none;
